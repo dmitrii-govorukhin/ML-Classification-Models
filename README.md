@@ -1,4 +1,4 @@
-# ML-Classification-Models
+# ML Classification Models
 
 **Project:**                   Building, training and testing Machine Learning classification models.
 
