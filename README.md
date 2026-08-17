@@ -13,7 +13,7 @@
  - Confusion_Matrix.png - screenshot of model quality assessment settings
  - ML_Models_Evaluation.py - Python file for developing a classification ML model
  
-**Results / Key Findings: ** The following metrics were achieved for the logistic regression model currently under development:
+**Results / Key Findings:** The following metrics were achieved for the logistic regression model currently under development:
  - Precision: 0.8111
  - Recall: 0.9559
  - F1-score: 0.8776
